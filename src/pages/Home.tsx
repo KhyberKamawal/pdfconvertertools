@@ -72,7 +72,7 @@ const Home: React.FC = () => {
     description: "I specialize in creating efficient, user-friendly web applications with modern technologies. Passionate about solving real-world problems through clean code and intuitive interfaces.",
     skills: ["React", "Node.js", "TypeScript", "Python", "UI/UX Design"],
     portfolio: "https://yourportfolio.com",
-    github: "https://github.com/yourusername",
+    github: "https://github.com/KhyberKamawal",
     linkedin: "https://linkedin.com/in/yourusername"
   };
 
